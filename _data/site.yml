@@ -1,0 +1,5 @@
+# footer, html code
+footer:
+  - '<a href="https://meikts.github.io/static/xml/rss.xml">RSS</a> | '
+  - 'Themed by <a href="https://github.com/moi-mo/UMPaper">UMPaper</a>'
+

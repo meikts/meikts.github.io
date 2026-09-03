@@ -10,6 +10,7 @@ categories: ['詩']
 > The roused mass
 > 
 > Soils its hands in darkness.
+>
 > 
 >
 > Matches strike at the phosphorus,
@@ -19,6 +20,7 @@ categories: ['詩']
 > The smell of gas is burning out
 > 
 > And fire crackles in my ears.
+>
 > 
 >
 > It’s so warm, bright and sweet,
@@ -38,6 +40,7 @@ categories: ['詩']
 張牙舞爪、沾滿泥濘。
 
 
+
 劃過紅磷點一根火柴，
 
 掌心裏漸漸落定霧靄。
@@ -45,6 +48,7 @@ categories: ['詩']
 火焰在耳中不斷爆裂，
 
 又怎堪一聞灰飛煙滅？
+
 
 
 你溫暖、明亮、甜美，
@@ -65,6 +69,7 @@ categories: ['詩']
 > Do not tear your snow-white attire, 
 > 
 > And sleep peacefully. 
+>
 > 
 > 
 > I will scratch and I will beat, 
@@ -82,6 +87,7 @@ categories: ['詩']
 也不要使白衣玷污，
 
 睡去吧，安然閉目。
+
 
 
 我要劃破、要痛打，
